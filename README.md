@@ -9,8 +9,10 @@ I am a dedicated software engineer with a strong background in backend developme
 ## Skills
 
 ### Machine Learning
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img src="https://img.icons8.com/color/48/000000/pandas.png"/> <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
 
 ### Web Scraping
+<img src="https://img.icons8.com/color/48/000000/beautiful-soup.png"/><img src="https://img.icons8.com/color/48/000000/requests.png"/> 
 
 ### Backend
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
