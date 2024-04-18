@@ -9,44 +9,20 @@ I am a dedicated software engineer with a strong background in backend developme
 ## Skills
 
 ### Machine Learning
-<img src="https://img.icons8.com/color/48/000000/machine-learning.png"/> 
 
 ### Web Scraping
-<img src="https://img.icons8.com/color/48/000000/web-scraping.png"/> 
 
 ### Backend
-- Java
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
-- Python
-  <img src="https://img.icons8.com/color/48/000000/python.png"/> 
-- Node.js
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
 ### Frontend
-- HTML
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-- CSS
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-- JavaScript
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-- React
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
 
 ### Database
-- MySQL
-  <img src="https://img.icons8.com/color/48/000000/mysql.png"/> 
+<img src="https://img.icons8.com/color/48/000000/mysql.png"/> 
 
 ### Frameworks and Tools
-- Django
-  <img src="https://img.icons8.com/color/48/000000/django.png"/> 
-- Selenium
-  <img src="https://img.icons8.com/ios-filled/50/000000/selenium-test-automation.png"/> 
-- Git
-  <img src="https://img.icons8.com/color/48/000000/git.png"/> 
-- REST API
-  <img src="https://img.icons8.com/ios-filled/50/000000/api.png"/> 
-- Linux
-  <img src="https://img.icons8.com/color/48/000000/linux.png"/> 
+<img src="https://img.icons8.com/color/48/000000/django.png"/><img src="https://img.icons8.com/ios-filled/50/000000/selenium-test-automation.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/ios-filled/50/000000/api.png"/> <img src="https://img.icons8.com/color/48/000000/linux.png"/> 
 
 ## Projects
 - [Project 1 Name](link-to-project1): Description of project 1.
