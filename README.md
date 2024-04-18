@@ -1,3 +1,8 @@
+<style>
+  body {
+    background-color: #ffffff;
+  }
+</style>
 ### Hi there 👋
 # Santosh Kanumuri's Portfolio
 
