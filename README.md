@@ -9,10 +9,10 @@ I am a dedicated software engineer with a strong background in backend developme
 ## Skills
 
 ### Machine Learning
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img src="https://img.icons8.com/color/48/000000/pandas.png"/> <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img src="https://img.icons8.com/color/48/000000/pandas.png"/>
 
 ### Web Scraping
-<img src="https://img.icons8.com/color/48/000000/beautiful-soup.png"/><img src="https://img.icons8.com/color/48/000000/requests.png"/> 
+<img src="https://img.icons8.com/ios-filled/50/000000/selenium-test-automation.png"/><img src="https://img.icons8.com/ios-filled/50/000000/api.png"/>
 
 ### Backend
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
@@ -24,7 +24,7 @@ I am a dedicated software engineer with a strong background in backend developme
 <img src="https://img.icons8.com/color/48/000000/mysql.png"/> 
 
 ### Frameworks and Tools
-<img src="https://img.icons8.com/color/48/000000/django.png"/><img src="https://img.icons8.com/ios-filled/50/000000/selenium-test-automation.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/ios-filled/50/000000/api.png"/> <img src="https://img.icons8.com/color/48/000000/linux.png"/> 
+<img src="https://img.icons8.com/color/48/000000/django.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/linux.png"/> 
 
 ## Projects
 - [Project 1 Name](link-to-project1): Description of project 1.
