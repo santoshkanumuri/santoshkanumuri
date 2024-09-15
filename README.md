@@ -1,5 +1,5 @@
 
-# Santosh Kanumuri's Portfolio
+# Santosh Kanumuri
 ### Hi there 👋
 Welcome to my GitHub repository! I'm Santosh Kanumuri, a passionate software developer with expertise in various technologies. Below, you'll find an overview of my skills and projects.
 
